@@ -1,0 +1,1 @@
+This JavaScript Repository is about catching errors that would otherwise stop the code from running.
